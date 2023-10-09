@@ -6,3 +6,6 @@
 *.iml
 out
 gen
+.idea/*
+!/.idea/misc.xml
+!/.idea/modules.xml
