@@ -38,7 +38,8 @@ if [ -e $script ];
 	then
 		echo "Script fan_control.py already exists. Doing nothing."
 	else
-		wget "https://raw.githubusercontent.com/sheriff02/RaspberryPy/master/fan_control.py"
+#		wget "https://raw.githubusercontent.com/sheriff02/RaspberryPy/master/fan_control.py"
+		wget "https://raw.githubusercontent.com/urosch/RaspberryPy-FanControl/master/fan_control.py"
 fi
 #-----------------------------------------------------------
 
